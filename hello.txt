@@ -12,4 +12,4 @@ hello,world!
 hello,world!
 hello,world!  master hot-fix
 hello,world!
-hello,world!
+hello,world!  hot-fix master
